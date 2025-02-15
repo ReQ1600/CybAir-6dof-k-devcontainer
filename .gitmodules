@@ -1,3 +1,0 @@
-[submodule "src/CybAir_6dof_gripper_control_cpp"]
-	path = src/CybAir_6dof_gripper_control_cpp
-	url = git@github.com:ReQ1600/CybAir_6dof_gripper_control_cpp.git
