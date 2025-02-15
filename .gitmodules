@@ -1,0 +1,3 @@
+[submodule "src/cybair_6dof_gripper_control_cpp"]
+	path = src/cybair_6dof_gripper_control_cpp
+	url = git@github.com:ReQ1600/cybair_6dof_gripper_control_cpp.git
