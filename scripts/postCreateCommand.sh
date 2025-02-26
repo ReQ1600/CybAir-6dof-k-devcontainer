@@ -1,6 +1,7 @@
 sudo apt install ros-humble-moveit -y &&\
 sudo apt install ros-humble-rmw-cyclonedds-cpp -y &&\
 echo "export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp" >> ~/.bashrc &&\
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc &&\
 sudo rosdep init &&\
 rosdep update &&\
 sudo apt update &&\
