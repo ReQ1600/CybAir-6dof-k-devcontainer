@@ -41,5 +41,5 @@
        "source=/dev/dri,target=/dev/dri,type=bind,consistency=cached",
        "source=${localWorkspaceFolder}/scripts,target=/home/ws/scripts,type=bind"
     ],
-    "postCreateCommand": "bash /home/ws/scirpts/postCreateCommand.sh"
+    "postCreateCommand": "bash /home/ws/scripts/postCreateCommand.sh"
 }
